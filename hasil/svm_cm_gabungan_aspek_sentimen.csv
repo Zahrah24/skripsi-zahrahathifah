@@ -1,0 +1,9 @@
+﻿,Predicted Negative (IT service reliability),Predicted Positive (IT service reliability),Predicted Negative (responsiveness),Predicted Positive (responsiveness),Predicted Negative (security),Predicted Positive (security),Predicted Negative (usability),Predicted Positive (usability)
+Actual Negative (IT service reliability),1693,29,0,0,0,0,0,0
+Actual Positive (IT service reliability),47,366,0,0,0,0,0,0
+Actual Negative (responsiveness),0,0,1864,25,0,0,0,0
+Actual Positive (responsiveness),0,0,37,1017,0,0,0,0
+Actual Negative (security),0,0,0,0,429,1,0,0
+Actual Positive (security),0,0,0,0,17,63,0,0
+Actual Negative (usability),0,0,0,0,0,0,976,31
+Actual Positive (usability),0,0,0,0,0,0,51,3014

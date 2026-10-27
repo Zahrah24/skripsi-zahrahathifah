@@ -1,0 +1,5 @@
+aspek,TN,FP,FN,TP,n_test,accuracy
+IT service reliability,1693,29,47,366,2135,0.9644
+responsiveness,1864,25,37,1017,2943,0.9789
+security,429,1,17,63,510,0.9647
+usability,976,31,51,3014,4072,0.9799

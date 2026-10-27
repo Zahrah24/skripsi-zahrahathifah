@@ -1,0 +1,9 @@
+aspek,kelas,precision,recall,f1,support
+IT service reliability,negatif,0.973,0.9832,0.978,1722
+IT service reliability,positif,0.9266,0.8862,0.9059,413
+responsiveness,negatif,0.9805,0.9868,0.9836,1889
+responsiveness,positif,0.976,0.9649,0.9704,1054
+security,negatif,0.9619,0.9977,0.9795,430
+security,positif,0.9844,0.7875,0.875,80
+usability,negatif,0.9503,0.9692,0.9597,1007
+usability,positif,0.9898,0.9834,0.9866,3065
